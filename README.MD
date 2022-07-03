@@ -6,3 +6,8 @@ User details
 Links to get his recent posts
 Links to get his recent comments
 Links to retrieve his friend’s list.
+
+Entity extends RepresentationModel with links directly in Controller class
+
+Refrences:
+https://grapeup.com/blog/how-to-build-hypermedia-api-with-spring-hateoas/#
